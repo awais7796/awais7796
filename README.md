@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @awais7796
 - 👀 I’m interested in Full stack and Mern stack development
-- 🌱 I’m currently learning Frontend 
 - 📫 awaitzz49@gmail.com
 
 <!---
