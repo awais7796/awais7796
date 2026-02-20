@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awais7796
 - 👀 I’m interested in Full stack and Mern stack development
-- exploring crypto and web3(majorly solana)
+- exploring crypto and web3 (majorly solana)
 - 📫 awais.naseem.khan@gmail.com
 
 <!---
